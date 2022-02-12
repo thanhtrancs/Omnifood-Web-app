@@ -9,6 +9,6 @@ I worked on this project when I took the course [Build Responsive Real-World Web
 # Screenshots
 
 ![Hero section](./screenshots/hero-section.png)
-![Hero section](./screenshots/how-section.png)
-![Hero section](./screenshots/meals-section.png)
-![Hero section](./screenshots/testimonials-section.png)
+![How it works section](./screenshots/how-section.png)
+![Meals section](./screenshots/meals-section.png)
+![Testimonials section](./screenshots/testimonials-section.png)
